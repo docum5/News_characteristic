@@ -1,7 +1,7 @@
 # News_characteristic
 
 <p align="center">
-  <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflowtweet.png?raw=true" />
+  <img src="https://github.com/docum5/News_characteristic/blob/main/portfojan2023/workflownews.png?raw=true" />
 </p>
 
 ## Table of Content
